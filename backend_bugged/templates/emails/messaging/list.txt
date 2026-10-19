@@ -1,0 +1,7 @@
+CareVanta — {action} notification for messaging
+
+Hello {user_name},
+
+Your messaging {resource} has been {action}.
+
+— CareVanta

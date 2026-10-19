@@ -1,0 +1,7 @@
+CareVanta — {action} notification for medical_records
+
+Hello {user_name},
+
+Your medical records {resource} has been {action}.
+
+— CareVanta

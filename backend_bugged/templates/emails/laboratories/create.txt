@@ -1,0 +1,7 @@
+CareVanta — {action} notification for laboratories
+
+Hello {user_name},
+
+Your laboratories {resource} has been {action}.
+
+— CareVanta

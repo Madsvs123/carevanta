@@ -1,0 +1,7 @@
+CareVanta — {action} notification for scheduling
+
+Hello {user_name},
+
+Your scheduling {resource} has been {action}.
+
+— CareVanta

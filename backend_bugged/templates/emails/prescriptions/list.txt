@@ -1,0 +1,7 @@
+CareVanta — {action} notification for prescriptions
+
+Hello {user_name},
+
+Your prescriptions {resource} has been {action}.
+
+— CareVanta

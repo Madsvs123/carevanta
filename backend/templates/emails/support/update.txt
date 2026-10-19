@@ -1,0 +1,7 @@
+CareVanta — {action} notification for support
+
+Hello {user_name},
+
+Your support {resource} has been {action}.
+
+— CareVanta

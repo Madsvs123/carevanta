@@ -1,0 +1,7 @@
+CareVanta — {action} notification for billing
+
+Hello {user_name},
+
+Your billing {resource} has been {action}.
+
+— CareVanta

@@ -1,0 +1,7 @@
+CareVanta — {action} notification for profiles
+
+Hello {user_name},
+
+Your profiles {resource} has been {action}.
+
+— CareVanta

@@ -1,0 +1,7 @@
+CareVanta — {action} notification for appointments
+
+Hello {user_name},
+
+Your appointments {resource} has been {action}.
+
+— CareVanta

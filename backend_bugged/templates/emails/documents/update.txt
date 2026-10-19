@@ -1,0 +1,7 @@
+CareVanta — {action} notification for documents
+
+Hello {user_name},
+
+Your documents {resource} has been {action}.
+
+— CareVanta

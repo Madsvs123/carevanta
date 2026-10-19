@@ -1,0 +1,7 @@
+CareVanta — {action} notification for accounts
+
+Hello {user_name},
+
+Your accounts {resource} has been {action}.
+
+— CareVanta
